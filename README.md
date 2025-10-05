@@ -8,14 +8,14 @@ An AI-powered heart disease detection system that uses machine learning techniqu
 
 - Predicts heart disease risk based on patient health data
 - Utilizes machine learning algorithms for accurate classification
-- User-friendly interface (if applicable, mention UI)
+- User-friendly interface 
 - Detailed model evaluation and performance metrics
 
 ## Technologies Used
 
 - TypeScript
 - JavaScript
-- Machine Learning Libraries/Frameworks (specify e.g., Scikit-learn, TensorFlow, PyTorch)
+- Machine Learning Libraries/Frameworks Scikit-learn, TensorFlow, PyTorch)
 - Vite, React, or other frontend frameworks if applicable
 
 ## Installation and Setup
