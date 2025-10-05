@@ -1,55 +1,52 @@
-Heart Disease Detection by Ajwad
+# Heart Disease Detection by Ajwad
 
-About
+## About
+
 An AI-powered heart disease detection system that uses machine learning techniques to analyze patient data and predict the risk of heart disease accurately. Built with advanced ML models to support early diagnosis and improve healthcare outcomes.
 
-Features
-Predicts heart disease risk based on patient health data
+## Features
 
-Utilizes machine learning algorithms for accurate classification
+- Predicts heart disease risk based on patient health data
+- Utilizes machine learning algorithms for accurate classification
+- User-friendly interface (if applicable, mention UI)
+- Detailed model evaluation and performance metrics
 
-User-friendly interface (if applicable, mention UI)
+## Technologies Used
 
-Detailed model evaluation and performance metrics
+- TypeScript
+- JavaScript
+- Machine Learning Libraries/Frameworks (specify e.g., Scikit-learn, TensorFlow, PyTorch)
+- Vite, React, or other frontend frameworks if applicable
 
-Technologies Used
-TypeScript
+## Installation and Setup
 
-JavaScript
-
-Machine Learning Libraries/Frameworks Scikit-learn, TensorFlow, PyTorch
-
-Vite, React frontend frameworks 
-
-Installation and Setup
-Clone the repository:
-
-text
+# Clone the repository
 git clone https://github.com/ajwadmohammed/heart-disease-detection-by_ajwad.git
-Navigate to the project directory:
 
-text
+# Navigate to the project directory
 cd heart-disease-detection-by_ajwad
-Install dependencies:
 
-text
+# Install dependencies
 npm install
-Run the development server:
 
-text
+# Run the development server
 npm start
-Open your browser at http://localhost:5173 to view the application.
 
-Usage
-Upload or input patient health data
+Open your browser at `http://localhost:5173` to view the application.
 
-Get real-time predictions of heart disease risk
+## Usage
 
-Interpret results and take preventive measures
+- Upload or input patient health data
+- Get real-time predictions of heart disease risk
+- Interpret results and take preventive measures
 
-Contributing
+## Contributing
+
 Contributions are welcome! Please open issues or submit pull requests for improvements.
 
+## Contact
 
-Contact
-For questions or suggestions, reach out to Mohammed Ajwad at [your email].
+For questions or suggestions, reach out to Mohammed Ajwad at mrmohammedajwad@gmail.com.
+
+
+
