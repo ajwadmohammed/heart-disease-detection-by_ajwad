@@ -16,7 +16,7 @@ An AI-powered heart disease detection system that uses machine learning techniqu
 - TypeScript
 - JavaScript
 - Machine Learning Libraries/Frameworks Scikit-learn, TensorFlow, PyTorch)
-- Vite, React, or other frontend frameworks if applicable
+- Vite, React.
 
 ## Installation and Setup
 
